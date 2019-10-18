@@ -10,6 +10,7 @@ int main ()
 	
 	
 	//rodzial drugi fortnite nadchodi :3
+	//niestety :C
 	
 	
 	
