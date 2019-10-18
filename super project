@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace ::std;
+
+int main() {
+    int x;
+    std::cout << "Hello, Niggers drop the numbers!" << std::endl;
+
+    cin>>x;
+
+    if (x>=10) {
+        cout<<"You big nigga";
+    }
+    else {
+        cout<<"You small nigga";
+    }
+
+    return 0;
