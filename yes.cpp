@@ -9,7 +9,7 @@ int main ()
 	cout<<x/2;
 	
 	
-	
+	//rodzial drugi fortnite nadchodi :3
 	
 	
 	
